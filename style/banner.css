@@ -1,0 +1,45 @@
+.banner {
+	background: #010225;
+	max-width: 100%;
+	height: 720px;
+	position: relative;
+	z-index: -1;
+}
+.banner__wrap {
+	position: relative;
+}
+.banner_desc {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 634px;
+	height: 393px;
+	padding: 85px 0 0 0;
+}
+.banner__title {
+	width: 617px;
+	height: 228px;
+	font-size: 64px;
+	font-weight: 400;
+	line-height: 76px;
+}
+.banner__text {
+	width: 617px;
+	height: 60px;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 30px;
+}
+.banner__appstores-link {
+	width: 633px;
+	height: 55px;
+}
+.appstorelink {
+	width: 150px;
+	height: 55px;
+}
+.banner__phone {
+	position: absolute;
+	top: -80px;
+	left: 52%;
+}

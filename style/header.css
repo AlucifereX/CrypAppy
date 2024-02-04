@@ -1,0 +1,39 @@
+.header-nav {
+	max-width: 1363px;
+	height: 82px;
+	background: #0c0d2ee5;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.header-nav-menu {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 25px;
+}
+.header-nav-menu-item a {
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 20px;
+	color: #fff;
+}
+.header-nav-menu-item a:hover {
+	color: #189ce8;
+}
+.header-nav-menu-item-btn {
+	width: 164px;
+	height: 48px;
+	border-radius: 100px;
+	border: 2px solid #fff;
+	background: none;
+}
+.header-nav-menu-item-btn a {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 16px;
+  color: #fff;
+}
+.header-nav-menu-item-btn a:hover{
+  color: #189ce8;
+}

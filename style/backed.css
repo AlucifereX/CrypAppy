@@ -1,0 +1,95 @@
+.backed {
+	background: #010225;
+}
+.backed-content {
+	max-width: 1267.22px;
+	height:	1086px;
+	margin: 0 auto;
+}
+.backed-desc {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 28px;
+	padding: 180px 0 0 0;
+}
+.backed-logos{
+	display: flex;
+	justify-content: space-between;
+	padding: 40px 0 80px 0;
+}
+.stand__wrap{
+	display: flex;
+	justify-content: space-between;
+}
+.backed-desc-link {
+	width: 177px;
+	height: 20px;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 20px;
+	color: #159BE8;
+	text-transform: uppercase;
+}
+.backed-desc-title {
+	width: 623px;
+	height: 108px;
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 54px;
+	text-align: center;
+}
+.stand {
+	width: 294.3px;
+	height: 370px;
+}
+.stars {
+	display: flex;
+	gap: 4px;
+}
+.stars-border {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #212250;
+	border-radius: 3px;
+	width: 24px;
+	height: 24px;
+}
+.stand-grade {
+	width: 13.98px;
+	height: 13px;
+}
+.stand-desc {
+	padding: 24px 0 15px 0;
+}
+.stand-text {
+	width: 288px;
+	height: 240px;
+	font-size: 17px;
+	font-weight: 400;
+	line-height: 30px;
+}
+.stand-man {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.stand-man-desc {
+	width: 111px;
+	height: 66px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	gap: 10px;
+}
+.stand-man-title {
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.stand-man-text {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16px;
+}
